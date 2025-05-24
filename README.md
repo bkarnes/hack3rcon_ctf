@@ -30,6 +30,4 @@ Once you've set up your VM and it is ready, run the setup_vm.sh script and it wi
  (Q)uit
 ```
 
-Run steps 1-4 (your VM will reboot after each step) with step #5 being optional.
-
-Once you have completed each step, then you will be able to access the scoreboard and can register a team.
+Run steps 1-4 (your VM will reboot after each step) with step #5 being optional.  For the Netbird setup, be sure to read the documentation on how to attach to the CTF netbird network so you can access the scoreboard and other servers.  Once you have completed each step, then you will be able to access the scoreboard and can register a team.
