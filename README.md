@@ -2,7 +2,7 @@
 This is the main repo for the SecureWV /  Hack3rCon CTF files.
 
 ## Download a fresh Kali VM:
-[Get Kali](https://www.kali.org/get-kali/#kali-virtual-machines)
+[Get Kali - Pre-made VMs](https://www.kali.org/get-kali/#kali-virtual-machines)
 
 Please note that the script is currently only set up for Kali.  I'm working on the Parrot version.
 
